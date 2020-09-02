@@ -1,2 +1,2 @@
 
-echo python3 manage.py runserver
+source venv/bin/activate
